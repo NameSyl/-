@@ -53,4 +53,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void getResponse(String data) {
         Toast.makeText(this,data,Toast.LENGTH_LONG).show();
     }
+
+    public class getclass{
+        
+    }
 }
